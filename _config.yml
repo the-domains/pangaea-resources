@@ -16,6 +16,10 @@ author:
   email: eric@PangaeaResources.net
   url: www.PangaeaResources.net
 name: Welcome
+navigation:
+  - name: about
+    url: www.PangaeaResources.net
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/850b4c01-9d53-4d2e-ae3e-d457ad11736c.jpg
 title: Pangaea Resources (Pty) Ltd
