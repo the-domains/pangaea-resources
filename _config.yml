@@ -11,7 +11,13 @@ color:
     - '#375D81'
     - '#183152'
 layout_spectrum: 0.007406188175082207
+author:
+  name: Eric
+  email: eric@PangaeaResources.net
+  url: www.PangaeaResources.net
 name: Welcome
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/850b4c01-9d53-4d2e-ae3e-d457ad11736c.jpg
 title: Pangaea Resources (Pty) Ltd
 description: |2
    African solutions with a global 
